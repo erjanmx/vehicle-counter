@@ -1,5 +1,5 @@
 # vehicle-counter
-Vehicle counter created during hackaton #UDH2016 
+Vehicle counter created during hackaton #UDH2016 http://udh2016.opendata-hackathon.com/ and took first place
 
 Proccessing image captures got from online camera (http://www.kt.kg/about_us/web-camera/) and counts vehicles going right and left.
 
